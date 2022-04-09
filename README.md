@@ -6,7 +6,7 @@ The notebook contains the back-end analysis for the data report for Autolib, whi
 
 
 ## Running the app
-*  Access the colab notebook at: 
+*  Access the colab notebook at: https://colab.research.google.com/drive/1lsPLTdiVSkzse_8kwcLox2Fwuk1Cu9mY#scrollTo=CdKjP6LYAnYA
 
 ## Installation/ Set Up
 * Use a desktop or laptop, phone or tablet.
